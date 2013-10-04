@@ -1,4 +1,4 @@
-img { max-width: 100%;}
+img { max-width: 100%; auto; margin-right: auto; margin: 0px; padding: 0px;}
 img.home { display: block; margin-left: auto; margin-right: auto; margin: 0px; padding: 0px;}
 div#panel {color: #000; background-color:#ffcc33;}
 h2.panelmenu {color: #000; margin-top: 0; padding-top: 0; font-variant: small-caps;}
