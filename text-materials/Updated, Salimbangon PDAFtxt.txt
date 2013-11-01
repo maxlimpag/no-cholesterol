@@ -1,37 +1,129 @@
-BENHUR SALIMBANGON
-Cebu Province, Fourth District
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Choice Cuts: Cebu and the Pork Barrel</title>
+		<link rel="stylesheet" href="css/choice-cuts.min.css" />
+		<link rel="stylesheet" href="css/jquery.mobile.structure-1.3.2.min.css" />
+		<link rel="stylesheet" href="css/custom.css" />
+		<link rel="stylesheet" href="css/font/fontawesome.css" />
+		<script src="js/jquery-1.10.2.min.js"></script>
+		<script src="js/jquery.mobile-1.3.2.min.js"></script>
+	</head>
+	<body>			
+	
+  <div data-role="page">
+  
+  <div data-role="panel" id="panel" data-position-fixed="true" data-position="left" data-theme="a" data-display="push">
+  <h2 class="panelmenu">menu</h2>
+  <ul data-role="listview" data-divider-theme="a" data-theme="a" data-icon="false">
+    <li><a href="about.html">Intro</a></li>
+    <li><a href="wheretostay.html">Fake NGOs</a></li>
+    <li><a href="smart.html">How they spent funds</a></li>
+  </ul><br />
+  <p>
+ This is a special report by the Sun.Star Cebu central newsroom </p>
+  <p><a href="#" data-rel="close" data-role="button" data-mini="true" data-inline="true">Close</a>
+  </div>
+	
+<div data-role="header" data-position="fixed" data-theme="b">
+<a data-iconpos="notext" href="#panel" data-role="button" data-icon="reorder"></a>
+<h1>Choice cuts</h1>
+</div>
+	
+<div data-role="content" data-theme="b">
+<img src="img/profile-salimbangon.jpg" alt="Benhur Salimbangon" />
 
-Terms: 2007-2010, 2010-2013, 2013-2016
+<h1 class="name">Benhur Salimbangon</h1>
+<h3 class="district">Cebu Province, Fourth District</h3>
+			
+<p>This is supposed to be Rep. Benhur Salimbangon's third consecutive term as a member of the House of Representatives. The Supreme Court, however, ruled in early 2010 that Salimbangon had actually lost the May 2007 election to then Bogo City Mayor Celestino Martinez III. By then, Salimbangon had served nearly the entire 2007-2010 term. He again defeated Martinez in 2010 and 2013. Before joining Congress, Salimbangon served on the Cebu Provincial Board. </p>
 
-TOTAL PDAF SHARES
+<p><strong>Terms:</strong>: 2010-2013, 2013-2016</p>
+<p><strong>Total PDAF:</strong> P196,500,000</p>
 
-2009: P6,500,000
-2010: P15,000,000
-2011: P70,000,000
-2012: P70,000,000
-2013: P35,000,000
+<h3>PDAF Share Per Year</h3>
+<p><strong>2009</strong>: P6,500,000<br />
+<strong>2010</strong>: P15,000,000<br />
+<strong>2011</strong>: P70,000,000<br />
+<strong>2012</strong>: P70,000,000<br />
+<strong>2013</strong>: P35,000,000</p>
+			
+<h2>Allocations in 2009</h2>
+Department of Social Welfare and Development 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Assistance for the Comprehensive Integrated Delivery of Social Services (CIDSS)</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Fourth district</th>
+<td>April 14, 2009</td>
+<td>P1,500,000</td>
+</tr>
+<tr>
+<th>Fourth district</th>
+<td>August 18, 2009</td>
+<td>P1,500,000</td>
+</tr>
+</tbody>
+</table>
 
-2009 releases
+Department of Health 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Aid to indigent patients</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>VSMMC</th>
+<td>April 14, 2009</td>
+<td>P1,500,000</td>
+</tr>
+<tr>
+<th>VSMMC</th>
+<td>August 18, 2009</td>
+<td>P2,000,000</td>
+</tr>
 
-Department of Social Welfare and Development 7
-Assistance for the Comprehensive Integrated Delivery of Social Services (CIDSS)
+</tbody>
+</table>
 
-Place			Date		Amount
-Fourth district		4/14/2009		1,500,000
-Fourth district		8/18/2009		1,500,000
 
-Department of Health 7
-Aid to indigent patients
-
-Place			Date		Amount
-VSMMC			4/14/2009		1,500,000
-VSMMC			8/18/2009		2,000,000
-					
-
+UPDATE HERE
 2010 releases
 
 Local Governments
 Assistance for priority programs and projects
+
+<h2>Allocations in 2009</h2>
+Department of Social Welfare and Development 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Assistance for the Comprehensive Integrated Delivery of Social Services (CIDSS)</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Fourth district</th>
+<td>April 14, 2009</td>
+<td>P1,500,000</td>
+</tr>
 
 Place			Date		Amount
 Daanbantayan		11/9/2010		100,000
@@ -61,6 +153,25 @@ Repair or rehabilitation of barangay roads
 Place			Date		Amount
 Medellin			11/9/2010		1,500,000
 
+2011
+
+<h2>Allocations in 2009</h2>
+Department of Social Welfare and Development 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Assistance for the Comprehensive Integrated Delivery of Social Services (CIDSS)</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Fourth district</th>
+<td>April 14, 2009</td>
+<td>P1,500,000</td>
+</tr>
 
 Local Governments
 Assistance fo the purchase of multi-cabs
@@ -84,8 +195,6 @@ Lambusan, San Remigio	3/14/2011		125,000
 Libong, San Remigio		3/14/2011		125,000
 Sab-a, San Remigio		3/14/2011		125,000
 
-
-2011 releases
 
 Department of Social Welfare and Development 7
 Assistance for the Comprehensive Integrated Delivery of Social Services (CIDSS)
@@ -231,6 +340,24 @@ Argawanon, San Remigio			12/6/2011		700,000
 
 Department of Public Works and Highways
 Construction, repair or rehabilitation of multi-purpose buildings
+
+<h2>Allocations in 2009</h2>
+Department of Social Welfare and Development 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Assistance for the Comprehensive Integrated Delivery of Social Services (CIDSS)</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Fourth district</th>
+<td>April 14, 2009</td>
+<td>P1,500,000</td>
+</tr>
 
 Place				Date		Amount
 Sulangan, Bantayan			5/4/2012		300,000
@@ -490,6 +617,24 @@ GRAND TOTAL					70000000
 Department of Social Welfare and Development 7
 Comprehensive and Integrated Delivery of Social Services (CIDSS) 
 
+<h2>Allocations in 2009</h2>
+Department of Social Welfare and Development 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Assistance for the Comprehensive Integrated Delivery of Social Services (CIDSS)</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Fourth district</th>
+<td>April 14, 2009</td>
+<td>P1,500,000</td>
+</tr>
+
 Place				Date		Amount
 Fourth district			2/8/2013		4,000,000
 
@@ -538,3 +683,6 @@ Place				Date		Amount
 CTU Daanbantayan Campus, Medellin	7/18/2013		700,000
 
 (End)
+</div>
+</body>
+</html>
