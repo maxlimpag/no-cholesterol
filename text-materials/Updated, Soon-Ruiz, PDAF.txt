@@ -1,22 +1,76 @@
-NERISSA CORAZON SOON-RUIZ 
-Sixth District, Cebu Province (1992-1998, 2001-2010)
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Choice Cuts: Cebu and the Pork Barrel</title>
+		<link rel="stylesheet" href="css/choice-cuts.min.css" />
+		<link rel="stylesheet" href="css/jquery.mobile.structure-1.3.2.min.css" />
+		<link rel="stylesheet" href="css/custom.css" />
+		<link rel="stylesheet" href="css/font/fontawesome.css" />
+		<script src="js/jquery-1.10.2.min.js"></script>
+		<script src="js/jquery.mobile-1.3.2.min.js"></script>
+	</head>
+	<body>			
+	
+  <div data-role="page">
+  
+  <div data-role="panel" id="panel" data-position-fixed="true" data-position="left" data-theme="a" data-display="push">
+  <h2 class="panelmenu">menu</h2>
+  <ul data-role="listview" data-divider-theme="a" data-theme="a" data-icon="false">
+    <li><a href="about.html">Intro</a></li>
+    <li><a href="wheretostay.html">Fake NGOs</a></li>
+    <li><a href="smart.html">How they spent funds</a></li>
+  </ul><br />
+  <p>
+ This is a special report by the Sun.Star Cebu central newsroom </p>
+  <p><a href="#" data-rel="close" data-role="button" data-mini="true" data-inline="true">Close</a>
+  </div>
+	
+<div data-role="header" data-position="fixed" data-theme="b">
+<a data-iconpos="notext" href="#panel" data-role="button" data-icon="reorder"></a>
+<h1>Choice cuts</h1>
+</div>
+	
+<div data-role="content" data-theme="b">
+<img src="img/profile-soonruiz.jpg" alt="Nerissa Soon-Ruiz" />
 
-Dr. Nerissa Corazon Soon-Ruiz served in the Cebu Provincial Board before being elected to Congress in 1992. When her second term ended in 1998, she ran for mayor of Mandaue City but lost. She was then elected again to the House of Representatives in 2001, where she served three consecutive terms, ending in June 2010.
+<h1>Nerissa Soon-Ruiz</h1>
+<h3>Cebu Province, Sixth District</h3>
+			
+<p>Dr. Nerissa Corazon Soon-Ruiz served in the Cebu Provincial Board before being elected to Congress in 1992. When her second term ended in 1998, she ran for mayor of Mandaue City but lost. She was then elected again to the House of Representatives in 2001, where she served three consecutive terms, ending in June 2010.
+</p>
+			
+<p><strong>Terms:</strong>1992-1995, 1995-1998, 2001-2004, 2004-2007, 2007-2010</p>
+<p><strong>Total PDAF:</strong> P44,200,000</p>
+			
+<h3>PDAF Share Per Year</h3>
+<p><strong>2009</strong>: P29,500,000<br />
+<strong>2010</strong>: P14,700,000<br />
 
-Share of PDAF
-
-2009: P29,500,000
-2010: P14,700,000
-
-					
-2009 releases
-
-Department of Labor, Commission on Higher Education, Tesda 7
-Scholarship programs
-
-Place				Date				Amount
-Sixth district			8/11/2009			2,500,000
-Sixth district 		8/11/2009			500,000
+<h2>Allocations in 2009</h2>
+Department of Labor, Commission on Higher Education, Tesda 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Scholarship programs</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Sixth district</th>
+<td>Aug. 11, 2009</td>
+<td>P2,500,000</td>
+</tr>
+<tr>
+<th>Sixth district</th>
+<td>Aug. 11, 2009</td>
+<td>P500,000</td>
+</tbody>
+</table>
 
 
 Department of Social Welfare and Development
@@ -55,6 +109,23 @@ Cordova				8/11/2009			300,000
 
 2010 releases
 
+<h2>Allocations in 2009</h2>
+Department of Labor, Commission on Higher Education, Tesda 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Scholarship programs</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Sixth district</th>
+<td>Aug. 11, 2009</td>
+<td>P2,500,000</td>
+</tr>
 
 Department of Labor, Commission on Higher Education, Tesda 7
 Scholarship programs
@@ -68,6 +139,23 @@ Sixth district			2/22/10			500,000
 Department of Social Welfare and Development
 Assistance for the Comprehensive Integrated Delivery of Social Services (CIDSS)
 
+Department of Labor, Commission on Higher Education, Tesda 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Scholarship programs</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Sixth district</th>
+<td>Aug. 11, 2009</td>
+<td>P2,500,000</td>
+</tr>
+
 Place				Date				Amount
 Sixth district			1/5/2010			1,400,000
 Sixth district			2/22/10			500,000
@@ -76,17 +164,53 @@ Sixth district			2/22/10			500,000
 Department of Health
 Assistance to indigent patients
 
+Department of Labor, Commission on Higher Education, Tesda 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Scholarship programs</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Sixth district</th>
+<td>Aug. 11, 2009</td>
+<td>P2,500,000</td>
+</tr>
+
 Place				Date				Amount
 VSMMC				1/5/2010			1,500,000
 VSMMC				2/22/10			5,000,000
 Eversley Childs Sanitarium	1/5/2010		2,000,000
-Eversley Childs Sanitarium	2/22/10		5,700,000
+Eversley Childs Sanitarium	2/22/10		5,700,000
 
 Department of Finance/ National Livelihood Development Corp.
 Assistance for livelihood programs
+
+Department of Labor, Commission on Higher Education, Tesda 7:<br />
+<table data-role="table" id="pdaf-table" data-mode="reflow" class="ui-responsive table-stroke">
+<h3>Scholarship programs</h3>
+<thead>
+<tr>
+<th data-priority="persist">Place</th>
+<th data-priority="2">Date</th>
+<th data-priority="3">Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Sixth district</th>
+<td>Aug. 11, 2009</td>
+<td>P2,500,000</td>
+</tr>
 
 Place				Date				Amount
 Sixth district			1/5/2010			1,600,000
 Sixth district			2/22/10			1,500,000
 
-
+
+/body
+/html
